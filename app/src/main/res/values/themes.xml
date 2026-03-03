@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.AutoCam" parent="Theme.Material3.DayNight">
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>

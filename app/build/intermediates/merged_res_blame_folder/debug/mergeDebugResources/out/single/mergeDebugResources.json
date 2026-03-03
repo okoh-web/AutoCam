@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\okoh\\.gradle\\daemon\\9.0.0\\com.example.autocam.app-debug-80:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\okoh\\.gradle\\daemon\\9.0.0\\com.example.autocam.app-main-82:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\okoh\\.gradle\\daemon\\9.0.0\\com.example.autocam.app-debug-80:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\okoh\\.gradle\\daemon\\9.0.0\\com.example.autocam.app-main-82:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\okoh\\.gradle\\daemon\\9.0.0\\com.example.autocam.app-debug-80:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\okoh\\.gradle\\daemon\\9.0.0\\com.example.autocam.app-main-82:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.autocam.app-debug-80:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.autocam.app-main-82:/drawable/ic_launcher_foreground.xml"
+    }
+]
